@@ -1,21 +1,23 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2511
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red255\green255\blue255;
-}
+\red205\green190\blue151;\red122\green37\blue30;}
 {\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000\c0;\cssrgb\c100000\c100000\c99985\c0;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\cssrgb\c84314\c78824\c65490;\csgenericrgb\c47826\c14510\c11688\c85000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh17480\viewkind0
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs22 \cf2 \cb3 \CocoaLigature0 #CHANGELOG\
 \
 \
-\cb4 git log v0.1.0 --pretty=format:'- [view commit](http://github.com/<splu>/<Offizielles-Repository-Luc>/commit/%H) &bull; %s ' --reverse \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb4 git log v0.1.0 --pretty=format:'- [view commit](http://github.com/lucspescha/Offizielles-Repository-Luc/commit/%H) &bull; %s ' --reverse \
 \
 \{v0.1.0\} -2020-01-27\
-\cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \cb3 \
 \
-- [view commit](http://github.com/<splu>/<Offizielles-Repository-Luc>/commit/41d1141a8afb530e3a1750dc3aa50d9ddc33dd73) &bull; Initial commit \
-- [view commit](http://github.com/<splu>/<Offizielles-Repository-Luc>/commit/f2ba35cb7c72e32f72e641c6109e2d711b54cb37) &bull; I have updated the index file "index.html" \
-- [view commit](http://github.com/<splu>/<Offizielles-Repository-Luc>/commit/be72d58fda0df3ddd23385503b97b295dad54099) &bull; Updated the README file \
+\cf5 \cb6 - [view commit](http://github.com/lucspescha/Offizielles-Repository-Luc/commit/41d1141a8afb530e3a1750dc3aa50d9ddc33dd73) &bull; Initial commit \
+- [view commit](http://github.com/lucspescha/Offizielles-Repository-Luc/commit/f2ba35cb7c72e32f72e641c6109e2d711b54cb37) &bull; I have updated the index file "index.html" \
+- [view commit](http://github.com/lucspescha/Offizielles-Repository-Luc/commit/be72d58fda0df3ddd23385503b97b295dad54099) &bull; Updated the README file \cf2 \cb3 \
 }
