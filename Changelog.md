@@ -1,8 +1,6 @@
 CHANGELOG
 
 
-git log v0.1.0 --pretty=format:'- [view commit](http://github.com/lucspescha/Offizielles-Repository-Luc/commit/%H) &bull; %s ' --reverse 
-
 {v0.1.0} -2020-01-27
 
 
